@@ -2,6 +2,10 @@
 AT-4
 CC003.23_COLLEGE-2ND-SEM-SY-24-25_AT #4
 
+Instructions to login:
+type in the keyboard user1 for the users and password is password1 to enter the admin to used the crud application
+type in the keyboard user2 for the users and password is password2 to enter the member.
+
 
 nstruction:
 
